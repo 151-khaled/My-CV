@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fefefecd; /* خلفية بيضاء */
+    color: rgba(0, 0, 0, 0.997); /*نص اسود*/
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff; /* خلفية رمادية داكنة */
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
